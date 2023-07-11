@@ -8,3 +8,4 @@ Reference :
 2. VanderPlas, J. (2017). Data Science Handbook. O'Reilly.
 3. https://docs.python.org/3/
 4. https://www.petanikode.com/
+5. https://www.geekforgeeks.org/
