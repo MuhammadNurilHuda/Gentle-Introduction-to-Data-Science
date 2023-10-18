@@ -1,4 +1,4 @@
-# Data-Science-Tutorial
+# Gentle Introduction to Data Science
 
 This is a Gentle Tutorial to be a good Data Scientist (although it's not too gentle, and also i'm not a Data Scientist yet LOL). This repo isn't finished yet. Reach me on email or LinkedIn for suggestions !!! I highly appreciated all suggestions.
 
