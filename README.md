@@ -12,6 +12,15 @@ The materials include:
 6.  MLOps
 
 
+The required skills (my summary from many job vacancies) :
+1.  Python or R
+2.  Statistical analysis
+3.  Pytorch
+4.  SQL and NoSQL
+5.  MLOps
+6.  Cloud platform (Azure, AWS, GCP), Docker, Kubernetes
+
+
 ## Reference : 
 
 1. https://www.w3schools.com/
