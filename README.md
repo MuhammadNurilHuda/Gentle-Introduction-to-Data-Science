@@ -7,14 +7,14 @@ The materials include:
 1.  Python
 2.  Data Structure
 3.  Pandas, Numpy, and Matplotlib
-4.  Statistics (it's also kinda hard for me)
+4.  Statistics
 5.  ML
 6.  MLOps
 
 
 The required skills (my summary from many job vacancies) :
 1.  Python or R
-2.  Statistical analysis
+2.  Statistical analysis, Inferential Statistics
 3.  Pytorch
 4.  SQL and NoSQL
 5.  MLOps
