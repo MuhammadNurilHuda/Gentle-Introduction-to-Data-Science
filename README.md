@@ -19,6 +19,8 @@ The required skills (my summary from many job vacancies) :
 4.  SQL and NoSQL
 5.  MLOps
 6.  Cloud platform (Azure, AWS, GCP), Docker, Kubernetes
+7.  NLP
+8.  Computer Vision
 
 
 ## Reference : 
