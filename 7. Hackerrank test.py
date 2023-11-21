@@ -50,23 +50,50 @@
 #     print(result)
 # #===========================
 
+# l=[]
+# N = int(input())
 
-l=[]
-N = int(input())
+# for _ in range (0,N):
+#     cmd=input().split()
+#     if cmd[0]=='insert':
+#         l.insert(int(cmd[1]), int(cmd[2]))
+#     elif cmd[0]=='print':
+#         print(l)
+#     elif cmd[0]=='remove':
+#         l.remove(cmd[1])
+#     elif cmd[0]=='append':
+#         l.append(cmd[1])
+#     elif cmd[0]=='sort':
+#         l.sort()
+#     elif cmd[0]=='pop':
+#         l.pop()
+#     elif cmd[0]=='reverse':
+#         l.reverse()
+# #===========================
 
-for _ in range (0,N):
-    cmd=input().split()
-    if cmd[0]=='insert':
-        l.insert(int(cmd[1]), int(cmd[2]))
-    elif cmd[0]=='print':
-        print(l)
-    elif cmd[0]=='remove':
-        l.remove(cmd[1])
-    elif cmd[0]=='append':
-        l.append(cmd[1])
-    elif cmd[0]=='sort':
-        l.sort()
-    elif cmd[0]=='pop':
-        l.pop()
-    elif cmd[0]=='reverse':
-        l.reverse()
+# def count_substring(string, sub_string):
+#     if len(string)>=1 and len(string)<=200:
+#         count = 0
+#         for i in range (len(string)):
+#             if string[i:len(string)].startswith(sub_string):
+#                 count+=1
+#     return count
+
+# if __name__ == '__main__':
+#     string = input().strip()
+#     sub_string = input().strip()
+    
+#     count = count_substring(string, sub_string)
+#     print(count)
+# #===========================
+
+# if __name__ == '__main__':
+#     s = input()
+#     if 0<len(s)<1000:
+#         print(any(i.isalnum() for i in s))
+#         print(any(i.isalpha() for i in s))
+#         print(any(i.isdigit() for i in s))
+#         print(any(i.islower() for i in s))
+#         print(any(i.isupper() for i in s))
+# #===========================
+
